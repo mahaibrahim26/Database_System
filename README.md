@@ -1,4 +1,4 @@
-# R&D Directorate Database System
+# Database System
 
 A relational database designed and implemented for a university 
 Research & Development Directorate as part of a Databases course 
